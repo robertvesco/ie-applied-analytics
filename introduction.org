@@ -1,0 +1,5 @@
+* Purpose
+
+This class is to teach an applied introduction to applied analytics. 
+
+
