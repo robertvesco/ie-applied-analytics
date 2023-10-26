@@ -2,4 +2,100 @@
 
 This class is to teach an applied introduction to applied analytics. 
 
+* Class outline
+
+** Session 1
+
+Provide a framework for understanding analytical problem areas and related techniques
+
+ - Highlight how practitioners solve common problems
+ - Discuss what this course does not cover, but that you will need to run many applied projects
+ - Discuss how analytics overlaps with many adjoining fields of business intelligence, data science, machine learning and so
+ - Discuss final class project and timelines
+
+
+** Session 2 – Linear Regression
+
+What is the impact of my product/promotion on sales relative to other products? Linear regression is a robust and very practical model that can answer questions like this when the outcome is continuous. We will review
+ What goes into a regression
+ 	
+ Interpreting results
+ 	
+ Diagnosing issues
+ 	
+ Alternatives
+
+
+** Session 3 – Logistic Regression
+
+Logistic regression deals with binary outcomes like sales/no sale. We can examine questions like: Did my promotion increase the probability of making a sale? Did changing the color of my website increase the likelihood of a subscription?
+ We will also briefly discuss models that deal with outcomes that have more than two categories.
+
+** Session 4 – Optimizing Investments and budgeting
+
+So perhaps you ran a linear regression to see which of your investments or marketing channels are providing the best outcomes. How should you allocate a limited budget between them? Here we will use our analysis from the linear regression session to determine how much to spend on each marketing channel subject to a budget constraint.
+ What are optimization models?
+ 	
+ What types of problems can we solve with them?
+ 	
+ What are common challenges we face when implementing 	optimization models
+
+
+** Session 5 – Clustering/Summarizing Data
+
+In a world of near limitless data, we sometimes have the challenge of making sense of it. Clustering techniques allow us to group data together statistically. This can sometimes help us make sense of the data in ways that would be impossible otherwise. Moreover, these clusters can be useful as inputs to other analytical models.
+ Discuss several types of clustering techniques
+ 	
+ Common pitfalls and challenges
+ 	
+ Maintaining coherent clusters over time
+
+** Session 6 – Time series forecasting
+
+What will next month bring? Time series forecasting allows us to generate predictions for a following time period and has many applications.
+ Review common time series challenges and terminology
+ 	
+ Introduce some tools that can ease time series forecasting
+ 	
+ Discuss limitations and common challenges
+
+** Session 7 – Anomaly Detection
+
+Did we spend more than normal? Are our sales what they should be? Is this a fraudulent purchase?
+ Review simple vs complex techniques
+ 	
+ Single vs multivariable anomaly detection. 	
+ 	
+ Forecasting and anomaly detection
+ 
+** Session 8 – Sentiment Analysis and Text Methods
+
+Historically understanding human sentiment required the use of surveys. Today we can use many online sources of text, like comments and blog posts, to ascertain how people feel. This can help us understand questions like how people perceive our products and companies over time.
+ Turning text into data we can use: categories vs sentiment
+ 	
+ Sources of text
+ 	
+ Advanced techniques
+ 	
+ Using text techniques as input to other types of analysis
+
+
+ 
+** Session 9 – Graphs and relationships
+
+What is the relationship between people or concepts? Who/What is the most important person, product or concept? Graph analytics can help us with a wide variety of problems and fields: from fraud detection to marketing strategy to finding the best way to navigate between two points.
+ Overview of common graph analytics
+ 	
+ Discuss challenges with data: nodes, edges, weights, and 	metadata
+ 	
+ Visualizing graphs
+ 	
+ Using graphs with text and other analytics
+
+
+** Session 10 – Presenting Projects
+
+In this session you have the opportunity to present your findings and analysis with the class.
+
+
 
